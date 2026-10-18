@@ -7,6 +7,9 @@ __pycache__/
 *.npy
 *.joblib
 *.xyz
+# ...except the optimized-geometry inputs, which come from external QM
+# optimizations and aren't reproducible by anything in this repo.
+!/opt_geoms/*.xyz
 
 # Logs / cluster job output
 *.out
