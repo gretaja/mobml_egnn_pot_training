@@ -1,4 +1,4 @@
-# pot_training
+# MOB-ML + EGNN Potential Training
 
 Pipeline for building machine-learned potential energy surfaces (MOB-ML and
 EGNN) for small molecular systems, benchmarked against DLPNO-CCSD(T)
