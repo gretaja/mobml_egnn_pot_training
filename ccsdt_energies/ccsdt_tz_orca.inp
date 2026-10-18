@@ -1,0 +1,7 @@
+! DLPNO-CCSD(T) aug-cc-pVTZ aug-cc-pVTZ/C VERYTIGHTSCF TightPNO
+%mdci
+MaxIter=200
+end
+%scf
+MaxIter=500
+end

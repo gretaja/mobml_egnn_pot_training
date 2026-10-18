@@ -1,0 +1,4 @@
+! B2PLYP D3BJ aug-cc-pVTZ aug-cc-pVTZ/C VERYTIGHTSCF
+%scf
+MaxIter=500
+end
